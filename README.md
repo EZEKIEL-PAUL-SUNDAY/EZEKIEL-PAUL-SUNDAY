@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Paul Ezekiel Sunday 👋
 
-<!--
-**EZEKIEL-PAUL-SUNDAY/EZEKIEL-PAUL-SUNDAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps / Cloud Engineer based in Nigeria
+🌱 Currently learning: Linux, Git, AWS, Docker
+📚 Documenting my 90-day DevOps journey
+🎯 Goal: Junior DevOps role + Remote
 
-Here are some ideas to get you started:
+### Tech Stack I'm Learning
+- Linux & Bash
+- Git & GitHub
+- AWS (Cloud Practitioner in progress)
+- Docker & Kubernetes
+- Terraform & CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Journey
+- Day 1: Linux basics - pwd, ls, cd, mkdir ✅
+- Day 2: Git push to GitHub ✅
+
+⭐️ Follow my journey in `devops-journey` repo
